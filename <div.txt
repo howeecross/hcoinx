@@ -2,10 +2,10 @@
     <div class="device-mockup" data-device="iphone5" data-orientation="portrait" data-color="black">
         <div class="device">
             <div class="screen">
-                <!-- Enter Our New Site-->
+                <!-- Enter Hcoinx-->
             </div>
-            <div class="button">
+            <div class="Log in">
                 <!-- You can hook the "home button" to some JavaScript events or just remove it -->
             </div>
         </div>
-    </div>
+    </div>POST /repos/:owner/:repo/git/trees
