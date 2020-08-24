@@ -12,7 +12,7 @@ name: Build and Deploy to GKE
 
 on:
   release:
-    types:['hcoinx']
+    types:[]
 
 # Environment variables available to all jobs and steps in this workflow
 env:
