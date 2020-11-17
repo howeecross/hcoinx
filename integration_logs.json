@@ -1,0 +1,10 @@
+[
+{"user_id":"U018P7F6D24","user_name":"incfreshstart","date":"1596087429","change_type":"whitelist_requests_require_comment_enabled"},
+{"user_id":"U018P7F6D24","user_name":"incfreshstart","date":"1596087419","change_type":"whitelist_enabled"},
+{"user_id":"U018P7F6D24","user_name":"incfreshstart","date":"1596087419","change_type":"whitelist_permissions_updated"},
+{"user_id":"U018P7F6D24","user_name":"incfreshstart","date":"1596086203","change_type":"added","app_type":"Hcoinx","app_id":"A017SLCA7TQ"},
+{"user_id":"U018P7F6D24","user_name":"incfreshstart","date":"1596085992","change_type":"updated","service_id":1284046285777,"service_type":"Google Drive","scope":"files:write:user"},
+{"user_id":"U018P7F6D24","user_name":"incfreshstart","date":"1596085953","change_type":"added","app_type":"Google Drive","app_id":"A6NL8MJ6Q","scope":"identify,bot,channels:read,files:read,team:read,users:read,users:read.email,chat:write:bot,links:read"},
+{"user_id":"U018P7F6D24","user_name":"incfreshstart","date":"1596085946","change_type":"added","service_id":1284046285777,"service_type":"Google Drive","scope":"files:write:user"},
+{"user_id":"U018P7F6D24","user_name":"incfreshstart","date":"1596085594","change_type":"added","app_type":"Doodle Bot","app_id":"AFA5VQJKX","scope":"identify,bot,commands"}
+]
