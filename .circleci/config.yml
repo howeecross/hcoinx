@@ -10,4 +10,5 @@ workflows:
   welcome:
     # Run the welcome/run job in its own container
     jobs:
-      - welcome/run
+      - welcome/run 
+https://github.com/howeecross/hcoinx/edit/master/.circleci/Hcoinx%20(2).php
