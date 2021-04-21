@@ -1,1 +1,23 @@
 theme: jekyll-theme-leap-day
+Build-agent version 1.0.52983-4b2c2b6c (2021-02-08T10:49:47+0000)
+System information:
+ Server Version: 19.03.13
+ Storage Driver: overlay2
+  Backing Filesystem: xfs
+ Cgroup Driver: cgroupfs
+ Kernel Version: 4.15.0-1092-aws
+ Operating System: Ubuntu 18.04.5 LTS
+ OSType: linux
+ Architecture: x86_64
+
+Starting container circleci/welcome-config-image:0.2.1
+Warning: No authentication provided, using CircleCI credentials for pulls from Docker Hub.
+  image is cached as circleci/welcome-config-image:0.2.1, but refreshing...
+0.2.1: Pulling from circleci/welcome-config-image
+Digest: sha256:01f2ee2fe579522417f13d799707cb1896320377e6fbbc70cdb35dd1f4e2b325
+Status: Image is up to date for circleci/welcome-config-image:0.2.1
+  pull stats: N/A
+  time to create container: 114ms
+  using image circleci/welcome-config-image@sha256:01f2ee2fe579522417f13d799707cb1896320377e6fbbc70cdb35dd1f4e2b325
+Time to upload agent and config: 698.921172ms
+Time to start containers: 967.424977ms
