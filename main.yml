@@ -184,8 +184,7 @@ contract HCoinxToken is ERC20Interface, SafeMath {
         allowed[msg.sender][spender] = tokens;
         emit Approval(msg.sender, spender, tokens);
         return true;
-    }
-
+    }<div.txt
 
         echo Add other actions to build,
         echo test, and deploy your project.
