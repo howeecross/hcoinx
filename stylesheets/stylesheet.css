@@ -27,6 +27,13 @@ time, mark, audio, video {
   border: 0;
   font: inherit;
   vertical-align: baseline;
+  <UserId>
+   <SID/>
+   <PrimarySmtpAddress/>
+   <DisplayName/>
+   <DistinguishedUser/>
+   <ExternalUserIdentity/>
+</UserId>
 }
 
 /* HTML5 display-role reset for older browsers */
