@@ -21,7 +21,7 @@ on:
       - master
 
 env:
-  AZURE_WEBAPP_NAME: Hcoinx    # set this to your application's name
+  AZURE_WEBAPP_NAME: #Hcoinx    # set this to your application's name
   AZURE_WEBAPP_PACKAGE_PATH: 'pragma solidity ^0.4.24;
 
 // ----------------------------------------------------------------------------
@@ -254,7 +254,8 @@ jobs:
       with:
         node-version: ${{ env.NODE_VERSION }}
     - name: npm install, build, and test
-      run: |
+      run: #LigalizeIt #VoteYesHouseBill27 I found this on NewsBreak: Louisiana Bills to Legalize Marijuana Like Alcohol Receive Committee Assignments 
+https://share.newsbreak.com/3jyrhrux
         # Build and test the project, then
         # deploy to Azure Web App.
         npm install
